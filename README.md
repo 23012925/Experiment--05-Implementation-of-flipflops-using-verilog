@@ -156,15 +156,15 @@ RegisterNumber: 23012925
 
 ## SR Flip Flop
 
-![Timing diagram](https://github.com/23012925/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931013/37ad8536-bcb5-4ae4-ac36-4d53e95445f6)
+![Timing diagram](https://github.com/23012925/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931013/7274d928-9ce7-4ec3-95c8-768520fd2ad3)
 
 ## D Flip Flop
+![Timing diagram](https://github.com/23012925/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931013/e4b1e48c-2229-4aff-b5bc-c7444c3f9cb7)
 
-![Timing diagram](https://github.com/23012925/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931013/b432716d-006b-4fd5-906f-e49605a9abad)
 
 ## JK Flip Flop
+![Timing diagram](https://github.com/23012925/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931013/32a58be1-e2e4-48f1-b28e-983f2886f5f1)
 
-![Timing diagram](https://github.com/23012925/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931013/472fe8e6-e42f-437b-8666-d9e77122272b)
 
 ## T Flip Flop
 
@@ -192,4 +192,8 @@ RegisterNumber: 23012925
 
 
 
-# RESULTS 
+# RESULTS:
+
+Thus, all the flipslops are designed and the truth tables are verified using quartus software.
+
+
