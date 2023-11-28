@@ -109,91 +109,95 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
+
 Developed by: JANARTHANAN K
+
 RegisterNumber: 23012925
 */
-# code
+# code:
 
-## SR Flip Flop
+## SR Flip Flop:
 
 ![program](https://github.com/23012925/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931013/b4ebad35-fc2e-4f7e-9b66-d0609ecc5150)
 
-## D Flip Flop
+## D Flip Flop:
 
 ![program](https://github.com/23012925/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931013/8c812283-cdfb-41ba-ab85-99216e346a0c)
 
-## JK Flip Flop
+## JK Flip Flop:
 
 ![program](https://github.com/23012925/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931013/bcc138e6-7cf9-4196-81e1-597c475cd498)
 
-## T Flip Flop
+## T Flip Flop:
 
 ![program](https://github.com/23012925/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931013/e40855d0-3d1a-41a7-9029-df56ee13ea68)
 
 
 
-# RTL LOGIC FOR FLIPFLOPS 
+# RTL LOGIC FOR FLIPFLOPS: 
 
-## SR Flip Flop
+## SR Flip Flop:
 
 ![RTL viewer](https://github.com/23012925/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931013/1bdb4a75-fddd-448c-9d49-b83add1c8689)
 
-## D Flip Flop
+## D Flip Flop:
 
 ![RTL viewer](https://github.com/23012925/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931013/a1750bb9-e464-49a6-b12d-9f2957db3935)
 
-## JK Flip Flop
+## JK Flip Flop:
 
 ![RTL viewer](https://github.com/23012925/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931013/2e57da1f-12f4-4b1d-9267-19410ff3826b)
 
-## T Flip Flop
+## T Flip Flop:
 
 ![RTL viewer](https://github.com/23012925/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931013/fe88425d-abfb-4244-bde3-9ade6801248b)
 
 
 
-# TIMING DIGRAMS FOR FLIP FLOPS 
+# TIMING DIGRAMS FOR FLIP FLOPS: 
 
-## SR Flip Flop
+## SR Flip Flop:
 
 ![Timing diagram](https://github.com/23012925/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931013/7274d928-9ce7-4ec3-95c8-768520fd2ad3)
 
-## D Flip Flop
+## D Flip Flop:
+
 ![Timing diagram](https://github.com/23012925/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931013/e4b1e48c-2229-4aff-b5bc-c7444c3f9cb7)
 
 
-## JK Flip Flop
+## JK Flip Flop:
+
 ![Timing diagram](https://github.com/23012925/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931013/32a58be1-e2e4-48f1-b28e-983f2886f5f1)
 
 
-## T Flip Flop
+## T Flip Flop:
 
 ![Timing diagram](https://github.com/23012925/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931013/8f60c2f6-b206-4c81-bcbd-a8f1edf8eaa9)
 
 
 
-# TRUTH TABLE FOR FLIP FLOPS
+# TRUTH TABLE FOR FLIP FLOPS:
 
-## SR Flip Flop
+## SR Flip Flop:
 
 ![sr truth table](https://github.com/23012925/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931013/97eea7c9-d083-4b83-a75e-78306793726e)
 
-## D Flip Flop
+## D Flip Flop:
 
 ![d truth table](https://github.com/23012925/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931013/a7620bdf-349a-4e1e-81b9-598882aae97f)
 
-## JK Flip Flop
+## JK Flip Flop:
 
 ![jk truth table](https://github.com/23012925/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931013/082b983e-225d-440f-b886-a317b17479c7)
 
-## T Flip Flop
+## T Flip Flop:
 
 ![t truth table](https://github.com/23012925/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150931013/e3d50c76-bfb4-4242-8f21-8296461fdf3d)
 
 
 
-# RESULTS:
+## RESULTS:
 
-Thus, all the flipslops are designed and the truth tables are verified using quartus software.
+Thus, all the flipflops are designed and the truth tables are verified using quartus software.
 
 
